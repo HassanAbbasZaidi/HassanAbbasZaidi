@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Plentys.pk**
 
-- 👨‍💻 All of my projects are available at [On Github](On Github)
+- 👨‍💻 All of my projects are available at [On Github](On Github) and my website https://hassanabbaszaidi.me/
 
 - 📫 How to reach me **zaidisyed724@gmail.com**
 
